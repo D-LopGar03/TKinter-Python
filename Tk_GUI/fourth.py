@@ -3,7 +3,6 @@ import tkinter as tk
 from tkinter import ttk
 import third, fifth
 
-root = ""
 
 def back_Pag3(root):
     root.destroy()
@@ -106,5 +105,3 @@ root.mainloop()
     exit_Button.pack(side="right", padx=2.5)
 
     root.mainloop()
-
-page4(root)
